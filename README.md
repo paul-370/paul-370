@@ -1,7 +1,7 @@
 # Hello, I'm Pradeep
 <a href="https://www.linkedin.com/in/pradeep-kumar-9a3978226"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in computer networking and network security to solving.
+I am a recent graduate with a profound interest in computer networking and network security.
 
 ## Objective
 
